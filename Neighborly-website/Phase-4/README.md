@@ -1,12 +1,6 @@
 # WEB DATA MANAGEMENT
 ***
 
-* NAME: Daniel Evilsizor
-***
-* NAME: Muraj Shrestha
-***
-* NAME: Deepesh Bhatta
-
 ## PHASE 4:
 ***
 * HTML 5
