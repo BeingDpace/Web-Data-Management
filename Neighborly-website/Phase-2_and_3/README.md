@@ -5,12 +5,6 @@
 * Blog page: blog.htlm
 * Blog theme: _css/theme.css
 ***
-* NAME: Daniel Evilsizor
-***
-* NAME: Muraj Shrestha
-***
-* NAME: Deepesh Bhatta
-
 ## PHASE 2 & 3:
 ***
 * HTML 5
